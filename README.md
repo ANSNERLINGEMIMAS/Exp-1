@@ -21,7 +21,6 @@ Class Diagram:
 ![ATM Class Diagram 1](https://github.com/user-attachments/assets/b107136c-8048-44d5-85da-9ea3dd0f3a1a)
 
 
-activity Diagram:
 ![activity diagram ATM](https://github.com/user-attachments/assets/1bd28570-5275-41ec-97f9-eb76ad8ea51d)
 
 Communication Diagram:
